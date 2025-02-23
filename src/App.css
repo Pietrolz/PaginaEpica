@@ -1,0 +1,18 @@
+:root {
+  --primary-red: #EF3F3E;
+  --primary-gray: #A9A9A9;
+  --primary-white: #FFFFFF;
+  --primary-black: #000000;
+  --font-title: 'Gotham Bold', sans-serif;
+  --font-body: 'Gotham Book', sans-serif;
+}
+
+@font-face {
+  font-family: 'Gotham Bold';
+  src: url('./assets/fonts/Gotham-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Gotham Book';
+  src: url('./assets/fonts/Gotham-Book.ttf') format('truetype');
+}
